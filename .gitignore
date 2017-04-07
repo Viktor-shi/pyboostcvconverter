@@ -67,6 +67,10 @@ install_manifest.txt
 *.project
 *.cproject
 
+## Codeblocks Project Files
+
+*.cbp
+
 ## Ignore Visual Studio project/solution files
 
 *.sln
